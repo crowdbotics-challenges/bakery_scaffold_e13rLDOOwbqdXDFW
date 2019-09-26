@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-NO%20COMMIT-blue.svg)](https://github.com/crowdbotics-challenges/bakery_scaffold_e13rLDOOwbqdXDFW)
+[![Status](https://img.shields.io/badge/status-BUILDING%20COMMIT:%2084c7800b2b09ed365a0910125b56413f65c94bc4-yellow.svg)](https://github.com/crowdbotics-challenges/bakery_scaffold_e13rLDOOwbqdXDFW/commit/84c7800b2b09ed365a0910125b56413f65c94bc4)
+
 
 If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building.
 
